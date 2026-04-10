@@ -13,7 +13,7 @@ Universal Healthy Humans Company wants to increase screening compliance rates. A
 
 ## Dataset
 
-**`data/DA_outbound_call_nursing_team.csv`** — 1,988 records of patient screening and outreach data.
+**`DA_outbound_call_nursing_team.csv`** — 1,988 records of patient screening and outreach data.
 
 | Column | Description |
 |---|---|
