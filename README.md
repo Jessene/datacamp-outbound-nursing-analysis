@@ -38,10 +38,9 @@ Universal Healthy Humans Company wants to increase screening compliance rates. A
 ├── README.md
 ├── LICENSE
 ├── notebook.ipynb                        # Full analysis and report
-├── Data_Analyst_Presentation_.pdf        # Non-technical presentation (PDF)
-├── Data_Analyst_Presentation_.key        # Non-technical presentation (Keynote)
-├── data/
-│   └── DA_outbound_call_nursing_team.csv
+├── Data Analyst Presentation .pdf        # Non-technical presentation (PDF)
+├── Data Analyst Presentation .key        # Non-technical presentation (Keynote)
+├── DA_outbound_call_nursing_team.csv
 └── figures/
     ├── patients_by_call_status.png
     ├── Comparison_Frequency_Patient_Count.png
