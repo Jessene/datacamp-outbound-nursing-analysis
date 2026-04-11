@@ -1,6 +1,6 @@
 # Outbound Nursing Team Call Analysis
 
-**DataCamp Data Analyst Professional Certification — Practical Exam**
+**DataCamp Data Analyst Certification — Practical Exam**
 
 ## Business Problem
 
@@ -68,4 +68,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-*Completed as part of the [DataCamp Data Analyst Certification]([https://www.datacamp.com/certification/data-analyst-professional](https://www.datacamp.com/certificate/DA0021861645910)), December 2025.*
+*Completed as part of the [DataCamp Data Analyst Certification](https://www.datacamp.com/portfolio/jaquinothomas), December 2025.*
