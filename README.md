@@ -7,8 +7,7 @@
 **DataCamp Data Analyst Certification — Practical Exam**
 
 ![Comparison of call frequency and patient count](figures/Comparison_Frequency_Patient_Count.png)
-
-## Business Problem
+*Call frequency distribution by patient count, shown with alpha transparency so both groups and their overlap are visible.*
 
 ## Business Problem
 
