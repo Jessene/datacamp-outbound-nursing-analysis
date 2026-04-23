@@ -2,6 +2,14 @@
 
 **DataCamp Data Analyst Certification — Practical Exam**
 
+# Outbound Nursing Team Call Analysis
+
+**DataCamp Data Analyst Certification — Practical Exam**
+
+![Comparison of call frequency and patient count](figures/Comparison_Frequency_Patient_Count.png)
+
+## Business Problem
+
 ## Business Problem
 
 Universal Healthy Humans Company wants to increase screening compliance rates. An outbound nursing team contacts patients who have not completed their required health screenings. The hospital wants to understand:
